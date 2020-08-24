@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93769bef-48c8-4358-b7ec-22145654ceb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/dibyajyoti47/gradle_fundamentals" />
+      </set>
+    </option>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="java-project" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gVPFt8xOQUoKenLhItSgFmNltC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Groovy.Last.Module.Chosen" value="java-project" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\E\develop\Gradle Fundamentals\java-project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SaleEvent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="info.garagesalesapp.domain.SaleEvent" />
+      <module name="java-project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="info.garagesalesapp.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SaleEvent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93769bef-48c8-4358-b7ec-22145654ceb0" name="Default Changelist" comment="" />
+      <created>1598196345789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598196345789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598196933368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598196933368" />
+    <state width="1493" height="24" key="GridCell.Tab.0.bottom" timestamp="1598207364269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="24" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598207364269" />
+    <state width="1493" height="24" key="GridCell.Tab.0.center" timestamp="1598207364269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="24" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598207364269" />
+    <state width="1493" height="24" key="GridCell.Tab.0.left" timestamp="1598207364269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="24" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598207364269" />
+    <state width="1493" height="24" key="GridCell.Tab.0.right" timestamp="1598207364269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="24" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598207364269" />
+    <state x="477" y="11" width="581" height="801" key="find.popup" timestamp="1598281439866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="11" width="581" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598281439866" />
+    <state x="209" y="22" key="new project wizard" timestamp="1598206110411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1598206110411" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598196945818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598196945818" />
+  </component>
+</project>
